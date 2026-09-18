@@ -1,0 +1,7 @@
+{
+    "modulation": "QPSK",
+    "sample_rate": 1000000,
+    "symbol_rate": 125000.0,
+    "snr_db": 15,
+    "number_of_symbols": 4096
+}

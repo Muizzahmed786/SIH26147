@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+numpy
+scipy
+pytest
+httpx
+pydantic
+python-multipart
+matplotlib

@@ -1,0 +1,7 @@
+{
+    "sample_rate": 1000000,
+    "format": "complex64",
+    "i_first": true,
+    "byte_order": "little",
+    "description": "Synthetic QPSK signal with AWGN"
+}
